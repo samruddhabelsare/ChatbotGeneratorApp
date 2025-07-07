@@ -1,3 +1,16 @@
+⚠️ Windows Defender SmartScreen Warning
+When you run the .exe, Windows may show a warning like:
+
+"Windows protected your PC – Unrecognized app from an unknown publisher"
+
+This happens because the app is not code-signed. Don’t worry — it’s safe to run.
+
+✅ To proceed:
+Click More info
+
+Click Run anyway
+
+
 🤖 Chatbot Generator v1
 
 This is a desktop application that allows you to visually build chatbot logic (intents, responses, voice options, etc.) without writing any code.
