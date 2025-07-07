@@ -17,6 +17,7 @@ No installation required.
 🧠 Designed for non-coders who want to build Python chatbots easily
 
 🧑‍🏫 Tutorial – Step-by-Step Guide
+
 🖥️ Step 1: Open the App
 Double-click on Chatbot_Generator_v1.exe
 
