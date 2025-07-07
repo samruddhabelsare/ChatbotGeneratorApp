@@ -1,8 +1,9 @@
 🤖 Chatbot Generator v1
+
 This is a desktop application that allows you to visually build chatbot logic (intents, responses, voice options, etc.) without writing any code.
 
 🚀 How to Use
-Download Chatbot_Generator_v9.exe from this repository.
+Download Chatbot_Generator_v1.exe from this repository.
 
 Double-click the .exe to launch the app.
 
@@ -17,7 +18,7 @@ No installation required.
 
 🧑‍🏫 Tutorial – Step-by-Step Guide
 🖥️ Step 1: Open the App
-Double-click on Chatbot_Generator_v9.exe
+Double-click on Chatbot_Generator_v1.exe
 
 The chatbot builder window will open
 
